@@ -12,13 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently
 - 🤓
 -->
 
-- 🔭 I’m currently working as a software Engineer at [Cerebranium](https://cerebranium.com/)
-- 🌱 I’m currently learning and working with flutter mobile and web applications.
+- 🔭 Currently working as a Software Engineer at [Cerebranium](https://cerebranium.com/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarang1998)
+
 
 <img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+
 
 <!-- social media buttons --> 
 _You can connect with me here!
@@ -30,3 +34,4 @@ _You can connect with me here!
 
 <!-- social media links -->
 [1]: https://www.linkedin.com/in/tarang-nair-752aa8179/
+
