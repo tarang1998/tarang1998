@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently
 - 🤓
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarang1998)
+
 -->
 
 - 🔭 Currently working as a Software Engineer at [Cerebranium](https://cerebranium.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarang1998)
 
 
 <img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
