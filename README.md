@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarang!
 
 <!--
 **tarang1998/tarang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Currently working as a Software Engineer at [Cerebranium](https://cerebranium.com/)
+- 🌱 Currently working as a Software Engineer at [Cerebranium](https://cerebranium.com/)
+
+
+### 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/>
+
+
 
 
 
