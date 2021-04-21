@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+<!-- <img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"> -->
 
 
 <!-- social media buttons --> 
