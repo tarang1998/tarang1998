@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 Currently working as a Software Engineer at [Cerebranium](https://cerebranium.com/)
 
 
 ### 🧰 Toolbox
