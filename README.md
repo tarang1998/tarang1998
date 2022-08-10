@@ -1,4 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarang!
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarang!
+
+A Software developer with experience in building scalable applications passionate about backend technology and mobile engineering. I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
 
 <!--
 **tarang1998/tarang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
