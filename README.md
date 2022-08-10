@@ -1,9 +1,16 @@
-<img align="right" src="" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
+<!-- <img align="right" src="" width=350px height=465px/> -->
 
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 ## I am Tarang!
 
 A Software developer with experience in building scalable applications passionate about backend technology and mobile engineering. I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
+
+- 📱 I’m currently looking out for a new role .
+- 🤓 I’m currently exploring about backend technology and mobile .
+<!-- - 💬 Ask me about javascript/typescript and computer science. -->
+- 📫 How to reach me: tarangnair98@gmail.com | [Twitter](https://twitter.com/tarang90564113) | [Linkedin](https://www.linkedin.com/in/tarang-nair-752aa8179/) | [Facebook](https://www.facebook.com/tarangnair) | [Instagram](https://www.instagram.com/nairtarang/)
+- 😄 Interests: Competitive Programming
+
 
 <!--
 **tarang1998/tarang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
