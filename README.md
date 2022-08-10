@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://tarangnair.com/#/"><img src="https://img.shields.io/badge/-tarangnair.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tarang-nair-752aa8179/"><img src="https://img.shields.io/badge/-Tarang%20Nair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://tarangnair.com/#/"><img src="https://img.shields.io/badge/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tarang-nair-752aa8179/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tarangnair98@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nairtarang/_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tarangnair"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/tarang90564113"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/nairtarang/_"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/tarangnair"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/tarang90564113"><img src="https://img.shields.io/badge/-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 
