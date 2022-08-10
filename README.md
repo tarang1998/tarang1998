@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C/C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="JAVA Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 
+### 📈 Stats
 
-
-
-
-<!-- <img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"> -->
+<img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
 
 
 
