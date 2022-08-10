@@ -7,8 +7,6 @@ A Software developer with experience in building scalable applications passionat
 
 - 📱 I’m currently looking out for a new software developer role
 - 🤓 I’m currently exploring about backend technology and mobile .
-<!-- - 💬 Ask me about javascript/typescript and computer science. -->
-- 📫 How to reach me: tarangnair98@gmail.com | [Twitter](https://twitter.com/tarang90564113) | [Linkedin](https://www.linkedin.com/in/tarang-nair-752aa8179/) | [Facebook](https://www.facebook.com/tarangnair) | [Instagram](https://www.instagram.com/nairtarang/)
 - 😄 Interests: Competitive Programming
 
 
