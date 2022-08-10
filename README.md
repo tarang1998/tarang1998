@@ -42,4 +42,13 @@ Here are some ideas to get you started:
 <img alt="Tarang's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tarang1998&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarang1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarang1998&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
