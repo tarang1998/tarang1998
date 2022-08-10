@@ -1,6 +1,6 @@
 <!-- <img align="right" src="" width=350px height=465px/> -->
 
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## I am Tarang!
 
 A Software developer with experience in building scalable applications passionate about backend technology and mobile engineering. I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
