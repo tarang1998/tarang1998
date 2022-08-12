@@ -7,27 +7,8 @@ A Software developer with experience in building scalable applications passionat
 
 - 📱 I’m currently looking out for a new software developer role
 - 🤓 I’m currently exploring about backend technology and mobile .
-- 😄 Interests: Competitive Programming
-
-
-<!--
-**tarang1998/tarang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 - 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently
-- 🤓
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarang1998)
-
--->
-
+- 😄 Interests: Competitive Programming - [LeetCode](https://leetcode.com/tarang_98/) | 
+ 
 
 
 ### 🧰 Toolbox
