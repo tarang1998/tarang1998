@@ -6,7 +6,7 @@ A Software developer experienced in building scalable applications passionate ab
 I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
 
 - 📱 I’m currently looking out for a new Software developer role
-- 🤓 I’m currently exploring anuthing related to backend technologies and mobile engineering.
+- 🤓 I’m passionate about backend technologies and mobile engineering.
 - 😄 Interests: Competitive Programming - [LeetCode](https://leetcode.com/tarang_98/) | [Code Chef](https://www.codechef.com/users/tarang_98)
  
 
