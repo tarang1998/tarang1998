@@ -2,11 +2,10 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## I am Tarang!
 
-A Software developer experienced in building scalable applications passionate about backend technologies and mobile engineering. 
+A Software developer experienced in building scalable applications passionate about backend and mobile engineering. 
 I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
 
 - 📱 I’m currently looking out for a new Software developer role
-- 🤓 I’m passionate about backend technologies and mobile engineering.
 - 😄 Interests: Competitive Programming - [LeetCode](https://leetcode.com/tarang_98/) | [Code Chef](https://www.codechef.com/users/tarang_98)
  
 
