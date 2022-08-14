@@ -17,10 +17,14 @@ I love to take up hard challenges, collaborate with people, automate things and 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+[![Tarangs github activity graph](https://activity-graph.herokuapp.com/graph?username=tarang1998&theme=green)](https://github.com/tarang1998/github-readme-activity-graph)
+
 <p align="center">
 <a href="https://github.com/tarang1998">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarang1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarang1998&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=tarang1998&theme=prussian"/>
+  
 </a>
 </p>
 
