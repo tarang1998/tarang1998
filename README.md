@@ -8,6 +8,16 @@ I love to take up hard challenges, collaborate with people, automate things and 
 - 📱 I’m currently looking out for a new Software developer role
 - 😄 Interests: Competitive Programming - [LeetCode](https://leetcode.com/tarang_98/) | [Code Chef](https://www.codechef.com/users/tarang_98) | [Hackerank](https://www.hackerrank.com/tarang98) | [GFG](https://auth.geeksforgeeks.org/user/tarangnair98/practice/)
  
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://tarangnair.com/#/"><img src="https://img.shields.io/badge/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tarang-nair-752aa8179/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tarangnair98@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nairtarang"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/tarangnair"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/tarang90564113"><img src="https://img.shields.io/badge/-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 
 ### 🧰 Toolbox
@@ -28,15 +38,5 @@ I love to take up hard challenges, collaborate with people, automate things and 
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://tarangnair.com/#/"><img src="https://img.shields.io/badge/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tarang-nair-752aa8179/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tarangnair98@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nairtarang"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tarangnair"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/tarang90564113"><img src="https://img.shields.io/badge/-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
 
 
