@@ -5,7 +5,6 @@
 A Software developer experienced in building scalable applications passionate about backend and mobile engineering. 
 I love to take up hard challenges, collaborate with people, automate things and solve real world problems.
 
-- 📱 I’m currently looking out for a new Software developer role
 - 😄 Interests: Competitive Programming - [LeetCode](https://leetcode.com/tarang_98/) | [Code Chef](https://www.codechef.com/users/tarang_98) | [Hackerank](https://www.hackerrank.com/tarang98) | [GFG](https://auth.geeksforgeeks.org/user/tarangnair98/practice/)
  
 
