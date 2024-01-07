@@ -16,27 +16,20 @@ I love to take up hard challenges, collaborate with people, automate things and 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Tarangs github activity graph](https://activity-graph.herokuapp.com/graph?username=tarang1998&theme=green)](https://github.com/tarang1998/github-readme-activity-graph)
 
-<p align="center">
-<a href="https://github.com/tarang1998">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tarang1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tarang1998&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=tarang1998&theme=prussian"/>
   <img src="https://profile-counter.glitch.me/pradhanmona7/count.svg" alt="Hello world" />
 
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <a href="https://tarangnair.com/#/"><img src="https://img.shields.io/badge/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tarang-nair-752aa8179/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tarangnair98@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nairtarang"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/tarangnair"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/tarang90564113"><img src="https://img.shields.io/badge/-BD081C?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
 
 
