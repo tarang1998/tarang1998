@@ -41,7 +41,7 @@
 
  ### ☁️ Cloud Infra
 
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=aws,dynamodb,gcp,firebase&perline=14" />
   </a>
 
@@ -49,7 +49,7 @@
 
  ### 📱 Mobile Dev
 
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=14" />
   </a>
 
