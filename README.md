@@ -7,6 +7,7 @@
 </p>
 
 <a target="_blank" align="center">
+	
   <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
@@ -35,6 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
 <p align="left">
@@ -42,8 +44,12 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma,aws,dynamodb,gcp,firebase,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,html,css,bootstrap,materialui,jquery,js,ts,react,redux,npm,yarn,nodejs,express,django,flask,mongodb,mysql,sqlite,postgres,py,pycharm,anaconda,c,cpp,java,eclipse,vscode,visualstudio,cs,postman,sentry,powershell,unity,bash,linux,ubuntu&perline=14" />
   </a>
  
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
