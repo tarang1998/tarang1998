@@ -46,6 +46,23 @@
  
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
+<details>
+<summary><h2>⚡ GitHub Stats</h2></summary>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center" >
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tarang1998&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tarang1998" src="https://github-readme-streak-stats.herokuapp.com/?user=tarang1998&theme=dark&hide_border=true" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tarang1998&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+</details>
+<br/>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
