@@ -38,22 +38,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
 <p align="left">
-
- ### ☁️ Cloud Infra
-
-  <a>
-    <img src="https://skillicons.dev/icons?i=aws,dynamodb,gcp,firebase&perline=14" />
+ <a>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma,aws,dynamodb,gcp,firebase,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,html,css,bootstrap,materialui,jquery,js,ts,react,redux,npm,yarn,nodejs,express,django,flask,mongodb,mysql,sqlite,postgres,py,pycharm,anaconda,c,cpp,java,eclipse,vscode,visualstudio,cs,postman,sentry,powershell,unity,bash,linux,ubuntu&perline=14" />
   </a>
-
-</br>
-
- ### 📱 Mobile Dev
-
-  <a>
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=14" />
-  </a>
-
-
+ 
 
 
 
