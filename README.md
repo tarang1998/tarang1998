@@ -36,6 +36,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
@@ -101,16 +104,36 @@ Software Development Engineer, [Myracle.io](https://www.myracle.io/)
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tarang1998&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
+</table>
 
+
+<table border="0" align="center">
+<tr border="0">
+<td width="100%" align="left">
+	<div align="left">
+
+
+[![](https://visitcount.itsvg.in/api?id=tarang1998&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+</td>
+</tr>
 </table>
 </details>
 <br/>
 
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p> 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
 
 
 
