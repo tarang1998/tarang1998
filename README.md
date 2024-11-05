@@ -47,6 +47,48 @@
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 <details>
+	<summary><h2>🧑‍💼 Experience</h2></summary>
+<br/>
+
+![FINRA](https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo.svg)
+<br/>
+System Administrator, [FINRA](https://www.finra.org/)
+<br/>
+**May 2024 - Aug 2024** 
+<br/>
+- Configured ServiceNow and AWS EC2 instances to integrate with internal applications according to specific business requirements.
+- Created JavaScript, Bash scripts to support integrations, reduce manual operations and inconsistencies in the data by a high margin.
+<br/>
+
+<a><img src="https://www.kiranafast.com/dist/images/logopng1.png" alt="Kirana Fast" width="100" height="100"/></a>
+<br/>
+Software Development Engineer, [Kirana Fast](https://www.kiranafast.com)
+<br/>
+**Dec 2022 - July 2022** 
+<br/>
+- Designed products using Flutter and GCP, managing a FMCG database with over 2 million+ products, serving over 10,000+ stores globally.
+- Engineered a system using GCP services, to help provide retail shops in India with an online presence.
+- Implemented APIs in Python and TypeScript using Clean Architecture Principles leveraging GCP’s serverless Cloud functions.
+<br/>
+
+<a><img src="https://static.wixstatic.com/media/4a82d1_e48e076a8b2f46ee9e02928d27a0c096~mv2.png/v1/fill/w_231,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Frame%201.png" alt="Kirana Fast" width="300" height="100"/></a>
+<br/>
+Software Development Engineer, [Myracle.io](https://www.myracle.io/)
+<br/>
+**July 2020 - July 2022** 
+<br/>
+- Managed a 5 member team to build ed-tech products using Flutter, GCP and Unity3D.
+- Spearheaded database migration from a NoSQL (Firebase) to a SQL database (Google Spanner), resulting in a 20% faster query output.
+- Utilized Big Query and Google Looker Studio, for data analysis and visualization, providing insights and reducing cost by 10%.
+- Deployed CI/CD pipelines for APIs and mobile app daily builds to receive early feedback using Github Actions.
+- Set up monitoring of error occurrences of the applications in Sentry, increasing the application stability to 85%.
+<br/>
+
+
+</details>
+
+
+<details>
 <summary><h2>⚡ GitHub Stats</h2></summary>
 <table border="0" align="center">
 <tr border="0">
@@ -59,6 +101,7 @@
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tarang1998&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
+
 </table>
 </details>
 <br/>
